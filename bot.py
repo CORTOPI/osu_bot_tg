@@ -24,7 +24,7 @@ import os
 import threading
 
 from flask import Flask, request
-from bot import main as bot_main  # 👈 ЗАМЕНИТЕ НА ВАШ ФАЙЛ И ФУНКЦИЮ!
+
 
 app = Flask(__name__)
 
